@@ -1,22 +1,22 @@
-12:56:18:007 [main] INFO  testCases.TestRevenueCalculator - *** STARTED TESTING REVENUE CALCULATOR ***
-12:56:18:029 [main] INFO  testCases.TestRevenueCalculator - Navigated to the FitPeo Homepage.
-12:56:18:248 [main] INFO  testCases.TestRevenueCalculator - Clicked on the Revenue Calculator link.
-12:56:19:427 [main] INFO  testCases.TestRevenueCalculator - Scrolled to make the slider section visible.
-12:56:20:095 [main] INFO  testCases.TestRevenueCalculator - Adjusted the slider to the target value of 820.
-12:56:20:445 [main] INFO  testCases.TestRevenueCalculator - Updated the text field to the target value of 560.
-12:56:20:494 [main] INFO  testCases.TestRevenueCalculator - Slider and Text Field values matched successfully.
-12:56:20:777 [main] INFO  testCases.TestRevenueCalculator - Updated the text field back to 820 as per the assignment.
-12:56:21:382 [main] INFO  testCases.TestRevenueCalculator - Selected CPT Codes: CPT99091, CPT99453, CPT99454, CPT99474.
-12:56:21:428 [main] INFO  testCases.TestRevenueCalculator - Total Recurring Reimbursement value validated successfully.
-12:56:21:428 [main] INFO  testCases.TestRevenueCalculator - *** FINISHED TESTING REVENUE CALCULATOR ***
-13:07:56:875 [main] INFO  testCases.TestRevenueCalculator - *** STARTED TESTING REVENUE CALCULATOR ***
-13:07:56:895 [main] INFO  testCases.TestRevenueCalculator - Navigated to the FitPeo Homepage.
-13:07:57:015 [main] INFO  testCases.TestRevenueCalculator - Clicked on the Revenue Calculator link.
-13:07:58:145 [main] INFO  testCases.TestRevenueCalculator - Scrolled to make the slider section visible.
-13:07:58:877 [main] INFO  testCases.TestRevenueCalculator - Adjusted the slider to the target value of 820.
-13:07:59:219 [main] INFO  testCases.TestRevenueCalculator - Updated the text field to the target value of 560.
-13:07:59:261 [main] INFO  testCases.TestRevenueCalculator - Slider and Text Field values matched successfully.
-13:07:59:576 [main] INFO  testCases.TestRevenueCalculator - Updated the text field back to 820 as per the assignment.
-13:08:00:181 [main] INFO  testCases.TestRevenueCalculator - Selected CPT Codes: CPT99091, CPT99453, CPT99454, CPT99474.
-13:08:00:226 [main] INFO  testCases.TestRevenueCalculator - Total Recurring Reimbursement value validated successfully.
-13:08:00:226 [main] INFO  testCases.TestRevenueCalculator - *** FINISHED TESTING REVENUE CALCULATOR ***
+13:36:52:269 [main] INFO  testCases.TestRevenueCalculator - *** STARTED TESTING REVENUE CALCULATOR ***
+13:36:52:293 [main] INFO  testCases.TestRevenueCalculator - Navigated to the FitPeo Homepage.
+13:36:52:447 [main] INFO  testCases.TestRevenueCalculator - Clicked on the Revenue Calculator link.
+13:36:53:624 [main] INFO  testCases.TestRevenueCalculator - Scrolled to make the slider section visible.
+13:36:54:300 [main] INFO  testCases.TestRevenueCalculator - Adjusted the slider to the target value of 820.
+13:36:54:775 [main] INFO  testCases.TestRevenueCalculator - Updated the text field to the target value of 560.
+13:36:54:828 [main] INFO  testCases.TestRevenueCalculator - Slider and Text Field values matched successfully.
+13:36:55:158 [main] INFO  testCases.TestRevenueCalculator - Updated the text field back to 820 as per the assignment.
+13:36:55:858 [main] INFO  testCases.TestRevenueCalculator - Selected CPT Codes: CPT99091, CPT99453, CPT99454, CPT99474.
+13:36:55:923 [main] INFO  testCases.TestRevenueCalculator - Total Recurring Reimbursement value validated successfully.
+13:36:55:924 [main] INFO  testCases.TestRevenueCalculator - *** FINISHED TESTING REVENUE CALCULATOR ***
+13:39:27:374 [main] INFO  testCases.TestRevenueCalculator - *** STARTED TESTING REVENUE CALCULATOR ***
+13:39:27:414 [main] INFO  testCases.TestRevenueCalculator - Navigated to the FitPeo Homepage.
+13:39:27:590 [main] INFO  testCases.TestRevenueCalculator - Clicked on the Revenue Calculator link.
+13:39:28:411 [main] INFO  testCases.TestRevenueCalculator - Scrolled to make the slider section visible.
+13:39:29:092 [main] INFO  testCases.TestRevenueCalculator - Adjusted the slider to the target value of 820.
+13:39:29:519 [main] INFO  testCases.TestRevenueCalculator - Updated the text field to the target value of 560.
+13:39:29:603 [main] INFO  testCases.TestRevenueCalculator - Slider and Text Field values matched successfully.
+13:39:29:970 [main] INFO  testCases.TestRevenueCalculator - Updated the text field back to 820 as per the assignment.
+13:39:30:722 [main] INFO  testCases.TestRevenueCalculator - Selected CPT Codes: CPT99091, CPT99453, CPT99454, CPT99474.
+13:39:30:775 [main] INFO  testCases.TestRevenueCalculator - Total Recurring Reimbursement value validated successfully.
+13:39:30:776 [main] INFO  testCases.TestRevenueCalculator - *** FINISHED TESTING REVENUE CALCULATOR ***
