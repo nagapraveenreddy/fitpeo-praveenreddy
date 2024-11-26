@@ -1,0 +1,47 @@
+# Maven Target Directory
+/target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IntelliJ IDEA Configuration
+/.idea/
+*.iws
+*.iml
+*.ipr
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+
+# Eclipse Configuration
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# NetBeans Configuration
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Visual Studio Code Configuration
+.vscode/
+
+# Mac OS System Files
+.DS_Store
+
+# Temporary Files
+*.tmp
+*.swp
+
+# Logs
+# Include all log files
+!logs/
